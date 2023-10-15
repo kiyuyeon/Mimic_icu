@@ -41,8 +41,7 @@ python model.py
 
 ### 사용법
 
-본 모델은 Python 3.12 버전을 사용하였습니다. - 필요한 라이브러리의 버전은 requirements.txt 파일에 작성되어 있으며, Docker를 실
-행할 때 해당 라이브러리가 설치되도록 작성되어 있습니다. 
+본 모델은 Python 3.12 버전을 사용하였습니다. - 필요한 라이브러리의 버전은 requirements.txt 파일에 작성되어 있으며, Docker를 실행할 때 해당 라이브러리가 설치되도록 작성되어 있습니다. 
 
 실행 방법
 먼저 Docker Desktop을 설치합니다. - 터미널 또는 명령 프롬프트를 열고 다음 명령을 사용하여 Docker 이미지를 빌드합니다
@@ -57,4 +56,3 @@ docker build -t your-image-name . - Docker 이미지 빌드가 완료되면 다�
 
 감사합니다.
 
-```
